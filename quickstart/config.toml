@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://neko7sora.github.io/hugo-playground/'
 languageCode = 'ja-jp'
 title = 'My New Hugo Site'
 
@@ -7,6 +7,7 @@ theme = "hyde"
 [params]
   themeColor = "theme-base-09"
 #  description = "Your custom description"
+  copyright = '© Neko7sora'
 
 [Menus]
   main = [
