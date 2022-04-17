@@ -1,6 +1,7 @@
 # hugo-playground
 hugo
 
+https://gohugo.io/getting-started/directory-structure/
 ```ls
 .
 ├── archetypes
