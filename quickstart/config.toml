@@ -1,4 +1,4 @@
-baseURL = 'http://neko7sora.github.io/hugo-playground/'
+baseURL = 'https://neko7sora.github.io/hugo-playground/'
 languageCode = 'ja-jp'
 title = 'My New Hugo Site'
 
