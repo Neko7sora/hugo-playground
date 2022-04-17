@@ -2,15 +2,4 @@ baseURL = 'https://neko7sora.is-a.dev/hugo-playground/'
 languageCode = 'ja-jp'
 title = 'My New Hugo Site'
 
-theme = "hyde"
-
-[params]
-  themeColor = "theme-base-09"
-#  description = "Your custom description"
-  copyright = '© Neko7sora'
-
-[Menus]
-  main = [
-      {Name = "Github", URL = "https://github.com/username/"},
-      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
-  ]
+theme = "hyas"
